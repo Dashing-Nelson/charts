@@ -3,7 +3,7 @@ All notable changes to the image will be documented in this file.
 
 ## [1.22.1-patch.1] - 2025-06-11
 
-### Security
+### Changed
 
 - Updated Alpine Linux base image to `3.20` to address CVE-2025-1094 vulnerability
 
